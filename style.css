@@ -78,7 +78,7 @@ body * {
   z-index: 1;
   transform: translateY(-50%);
 
-  animation: slid-back 0.3s;
+  animation: slide-back 0.3s;
 }
 
 #switch buttton:hover {
