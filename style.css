@@ -78,7 +78,7 @@ body * {
   z-index: 1;
   transform: translateY(-50%);
 
-  animation: slid-black 1s;
+  animation: slid-black 0.3s;
 }
 
 #switch buttton:hover {
@@ -86,7 +86,7 @@ body * {
 }
 
 .light #switch button {
-  animation: slide-in 1s forwards;
+  animation: slide-in 0.4s forwards;
 }
 
 #switch span {
